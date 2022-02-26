@@ -11,5 +11,5 @@ https://rbodil.github.io/Daily-Planner/
 
 </br>
 
-![demo](./assets/Daily Planner.gif)
+![Daily_Planner_demo](./assets/Daily-Planner.gif)
 
