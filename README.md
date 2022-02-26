@@ -1,6 +1,6 @@
 # Daily Planner
 
-<!-- deployed website goes here-->
+https://rbodil.github.io/Daily-Planner/
 
 ## Features
 
@@ -9,5 +9,7 @@
 * Color coded based on time of day
 * Ability to edit tasks and save tasks to browser
 
-<!-- screen grab goes here -->
+</br>
+
+![demo](./assets/Daily Planner.gif)
 
