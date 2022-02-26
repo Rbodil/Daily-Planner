@@ -25,6 +25,10 @@ textarea{
   color: #ffff;
 
 }
+.squares-header{
+  background-color:rgb(3, 7, 48);
+  color: #ffff;
+}
 
 .description{
   white-space: pre-wrap;
